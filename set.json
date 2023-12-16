@@ -1,0 +1,37 @@
+{
+ "ip_server": ".",
+ "vk_server": ".",
+ "youtube_server": ".",
+ "discord_server": ".",
+ "site_server": ".",
+ "forum_server": ".",
+ "donate_server": ".",
+
+ "version_launcher": ".",
+ "version_game": ".",
+
+ "url_game ": ".",
+ "url_obnov_game": ".",
+ "url_updater_launcher": ".",
+
+ "news1_img ": ".",
+ "news1_img_title ": ".",
+ "news1_img_text ": ".",
+
+ "news2_img": ".",
+ "news2_img_title ": ".",
+ "news2_img_text ": ".",
+
+ "news3_img": ".",
+
+ "news3_img_title ": ".",
+ "news3_img_text ": ".",
+
+ "news4_img": ".",
+ "news4_img_title ": ".",
+ "news4_img_text ": ".",
+
+ "news5_img": ".",
+ "news5_img_title ": ".",
+ "news5_img_text ": "."
+}
