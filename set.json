@@ -7,18 +7,18 @@
  "forum_server": ".",
  "donate_server": ".",
 
- "version_launcher": ".",
- "version_game": ".",
+ "version_launcher": "1.0.0",
+ "version_game": "1.0.0",
 
  "url_game ": ".",
  "url_obnov_game": ".",
  "url_updater_launcher": ".",
 
- "news1_img ": ".",
+ "news1_img ": "https://img.freepik.com/free-photo/a-picture-of-fireworks-with-a-road-in-the-background_1340-43363.jpg",
  "news1_img_title ": ".",
  "news1_img_text ": ".",
 
- "news2_img": ".",
+ "news2_img": "https://img.freepik.com/free-photo/a-picture-of-fireworks-with-a-road-in-the-background_1340-43363.jpg",
  "news2_img_title ": ".",
  "news2_img_text ": ".",
 
