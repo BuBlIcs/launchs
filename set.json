@@ -10,7 +10,7 @@
  "version_launcher": "1.0.0",
  "version_game": "1.0.0",
 
- "url_game ": ".",
+ "url_game": ".",
  "url_obnov_game": ".",
  "url_updater_launcher": ".",
 
@@ -33,5 +33,7 @@
 
  "news5_img": ".",
  "news5_img_title ": ".",
- "news5_img_text ": "."
+ "news5_img_text ": ".",
+
+ "online_server": "1",
 }
