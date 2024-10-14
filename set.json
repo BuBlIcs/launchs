@@ -11,8 +11,8 @@
  "version_launcher": "1.0.0",
  "version_game": "1.0.3",
 
- "url_game": "https://forum-chernikovka.ru/chernikovka.zip",
- "url_obnov_game": "https://forum-chernikovka.ru/obnov.zip",
+ "url_game": "https://forum-chernikovka.ru/launcher/chernikovka.zip",
+ "url_obnov_game": "https://forum-chernikovka.ru/launcher/obnov.zip",
  "url_updater_launcher": ".",
 
  "news_number_one": "https://i.imgur.com/rft8aeA.png",
