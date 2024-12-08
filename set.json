@@ -1,31 +1,36 @@
 {
- "ip": "5.39.108.52:1449"
- "vk_link": ".",
- "youtube_link": ".",
- "discord_link": ".",
- "site_link": "https://forum-chernikovka.ru/",
- "forum_link": "https://forum-chernikovka.ru/",
- "donate_link": "https://forum-chernikovka.ru/",
- "password": "123123123",
+    "ip": ".",
+    "vk_link": ".",
+    "youtube_link": ".",
+    "discord_link": ".",
+    "site_link": "https://forum-chernikovka.ru/",
+    "forum_link": "https://forum-chernikovka.ru/",
+    "donate_link": "https://forum-chernikovka.ru/",
+    "password": "123123123",
+    "white_ip": "",
+    "black_ip": "",
 
- "version_launcher": "1.0.0",
- "version_game": "1.0.0",
+    "version_launcher": "1.0.0",
+    "version_game": "1.0.0",
 
- "url_game": "https://forum-chernikovka.ru/launcher/chernika.zip",
- "url_obnov_game": "https://forum-chernikovka.ru/launcher/obnov.zip",
- "url_updater_launcher": ".",
+    "url_game": "https://forum-chernikovka.ru/launcher/chernika.zip",
+    "url_obnov_game": "https://forum-chernikovka.ru/launcher/obnov.zip",
+    "url_updater_launcher": ".",
 
- "news_number_one": "https://i.imgur.com/cRxvHiM.png",
- "news_number_one_title": "хазбик пиздец",
- "news_number_one_text": "._.",
+    "date_news_1": "15.07.2008",
+    "date_news_2": "15.07.2008",
+    "date_news_3": "15.07.2008",
+    "date_news_4": "15.07.2008",
 
- "news_number_two": "https://i.gifer.com/GBon.gif",
- "news_number_two_title": "Шо за бык ебать",
- "news_number_two_text": "писюн",
- "SizeGames": "6200",
- "SizeGamesGB": "6.2 GB",
+    "text_news_1": "Тут будет ваш текст",
+    "text_news_2": "Тут будет ваш текст",
+    "text_news_3": "Тут будет ваш текст",
+    "text_news_4": "Тут будет ваш текст",
+ 
+    "SizeGames": "6200",
+    "SizeGamesGB": "6.2 GB",
 
- "SizeObnov": "2500",
- "SizeGamesGBObnov": "2.5 GB"
+    "SizeObnov": "2500",
+    "SizeGamesGBObnov": "2.5 GB"
 
 }
