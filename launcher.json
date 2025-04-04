@@ -1,14 +1,16 @@
 {
-    "ip": "51.91.91.82:7777",
-    "vk_link": ".",
-    "youtube_link": ".",
-    "discord_link": ".",
+    "ip_server_one": "127.0.0.1:7777",
+    "x_day_server_one": "0",
+
+    "ip_server_two": "127.0.0.1:7777",
+    "x_day_server_two": "2",
+
+    "ip_server_tree": "127.0.0.1:7777",
+    "x_day_server_tree": "0",
+    
     "site_link": "https://forum-chernikovka.ru/",
     "forum_link": "https://forum-chernikovka.ru/",
     "donate_link": "https://forum-chernikovka.ru/",
-    "password": "123123123",
-    "white_ip": "",
-    "black_ip": "",
 
     "version_launcher": "1.0.0",
     "version_game": "1.0.0",
