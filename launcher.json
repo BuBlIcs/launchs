@@ -1,6 +1,6 @@
 {
     "ip_server_one": "127.0.0.1:7777",
-    "x_day_server_one": "0",
+    "x_day_server_one": "2",
 
     "ip_server_two": "127.0.0.1:7777",
     "x_day_server_two": "2",
@@ -15,9 +15,9 @@
     "version_launcher": "1.0.0",
     "version_game": "1.0.0",
 
-    "url_game": "https://forum-chernikovka.ru/launcher/chernika.zip",
-    "url_obnov_game": "https://forum-chernikovka.ru/launcher/obnov.zip",
-    "url_updater_launcher": ".",
+    "url_game": "https://drive.google.com/uc?export=download&id=1R7MS1XX2DWBtz1RugtZfgNSZ-Ve8Sl6t",
+    "url_obnov_game": "https://drive.google.com/uc?export=download&id=1R7MS1XX2DWBtz1RugtZfgNSZ-Ve8Sl6t",
+    "url_updater_launcher": "https://drive.google.com/uc?export=download&id=1R7MS1XX2DWBtz1RugtZfgNSZ-Ve8Sl6t",
 
     "news_number_one": "https://i.imgur.com/cRxvHiM.png",
     "news_number_one_title": "хазбик пиздец",
