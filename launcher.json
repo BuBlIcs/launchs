@@ -4,11 +4,11 @@
     "x_day_server_one": "2",
 
     "ip_server_two": "62.122.214.9",
-    "ip_server_two": "7777",
+    "ip_server_two_port": "7777",
     "x_day_server_two": "2",
 
     "ip_server_tree": "62.122.214.9",
-    "ip_server_tree": "7777",
+    "ip_server_tree_port": "7777",
     "x_day_server_tree": "3",
     
     "site_link": "https://forum-chernikovka.ru/",
