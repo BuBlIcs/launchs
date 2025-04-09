@@ -1,13 +1,13 @@
 {
-    "ip_server_one": "127.0.0.1",
+    "ip_server_one": "62.122.214.9",
     "ip_server_one_port": "7777",
     "x_day_server_one": "2",
 
-    "ip_server_two": "127.0.0.1",
+    "ip_server_two": "62.122.214.9",
     "ip_server_one_two": "7777",
     "x_day_server_two": "2",
 
-    "ip_server_tree": "127.0.0.1",
+    "ip_server_tree": "62.122.214.9",
     "ip_server_one_tree": "7777",
     "x_day_server_tree": "3",
     
