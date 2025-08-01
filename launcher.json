@@ -37,6 +37,9 @@
     "SizeGamesGB": "6.2 GB",
 
     "SizeObnov": "2500",
-    "SizeGamesGBObnov": "2.5 GB"
+    "SizeGamesGBObnov": "2.5 GB",
+
+    "SizeData": "2500",
+    "SizeDataGBObnov": "2.5 GB"
 
 }
