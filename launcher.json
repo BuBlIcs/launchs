@@ -10,10 +10,10 @@
     "version_game": "1.0.0",
     "version_data": "1.0.0",
 
-    "url_game": "https://fv5-2.files.fm/down.php?cf&i=5c3nctnexe&n=data.zip",
+    "url_game": "https://fv5-2.files.fm/down.php?i=6v6pkm2ps8&n=game.zip",
     "url_obnov_game": "",
     "url_updater_launcher": "",
-    "url_data": "https://fv5-2.files.fm/down.php?i=6v6pkm2ps8&n=game.zip",
+    "url_data": "https://fv5-2.files.fm/down.php?cf&i=5c3nctnexe&n=data.zip",
     "url_obnov_data": "",
 
     "news_number_one": "https://i.imgur.com/XaQe0ef.png",
@@ -43,6 +43,7 @@
     "SizeDataGBObnov": "2.5 GB"
 
 }
+
 
 
 
