@@ -10,13 +10,13 @@
     "name": "SecureVPN",
     "description": "Описание приложения",
     "url": "https://securevpn.net/apk/latest.apk",
-    "icon": "https://securevpn.net/assets/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBUD7zGVxSnnjzAyxJdWQTD_zO-xfjuHRI0g&s",
     "version": "2.0.4"
   },
   {
     "name": "Music Flow Player",
     "description": "Описание приложения",
     "url": "https://musicflow.app/download/musicflow.apk",
-    "icon": "https://musicflow.app/icon.png"
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBUD7zGVxSnnjzAyxJdWQTD_zO-xfjuHRI0g&s"
   }
 ]
