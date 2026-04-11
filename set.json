@@ -1,22 +1,93 @@
 [
   {
-    "name": "FileMaster Pro",
-    "description": "Описание приложения",
-    "url": "https://github.com/BuBlIcs/launchs/raw/refs/heads/main/com.truedevelopersstudio.automatictap.autoclicker-91.apk",
-    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBUD7zGVxSnnjzAyxJdWQTD_zO-xfjuHRI0g&s",
-    "version": "3.2.1"
+    "name": "IPTVPORTAL",
+    "description": "Телеканалы",
+    "url": "https://ftp.iptvportal.cloud/android/ru.iptvportal.stb_v1.201_2023.05.17--market.apk",
+    "icon": "https://radio.putevod.su/app/img/iptv.png",
+    "version": "1.2.1"
   },
   {
-    "name": "SecureVPN",
-    "description": "Описание приложения",
-    "url": "https://github.com/BuBlIcs/launchs/raw/refs/heads/main/com.truedevelopersstudio.automatictap.autoclicker-91.apk",
-    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBUD7zGVxSnnjzAyxJdWQTD_zO-xfjuHRI0g&s",
-    "version": "2.0.4"
+    "name": "ByeByeDPI",
+    "description": "Инструменты",
+    "url": "https://github.com/romanvht/ByeByeDPI/releases/download/v.1.7.4/ByeByeDPI-v1.7.4-universal-release.apk",
+    "icon": "https://radio.putevod.su/app/img/baybay.png",
+    "version": "1.7.1"
   },
   {
-    "name": "Music Flow Player",
-    "description": "Описание приложения",
-    "url": "https://github.com/BuBlIcs/launchs/raw/refs/heads/main/com.truedevelopersstudio.automatictap.autoclicker-91.apk",
-    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBUD7zGVxSnnjzAyxJdWQTD_zO-xfjuHRI0g&s"
+    "name": "YouTube на Тв",
+    "description": "Видеохостинг",
+    "url": "https://radio.putevod.su/app/youtubetv.apk",
+    "icon": "https://radio.putevod.su/app/img/youtubetv.png",
+    "version": "6.5.3"
+  },
+  {
+    "name": "VK Видео",
+    "description": "Видеохостинг",
+    "url": "https://radio.putevod.su/app/vkvideo.apk",
+    "icon": "https://radio.putevod.su/app/img/vkvideo.png",
+    "version": "2.8.5"
+  },
+  {
+    "name": "RUTUBE",
+    "description": "Видеохостинг",
+    "url": "https://promo.rutubelist.ru/apps/android/Rutube.release.31.5.5-android.apk",
+    "icon": "https://radio.putevod.su/app/img/rutube.png",
+    "version": "31.5.5"
+  },
+  {
+    "name": "Zona",
+    "description": "Фильмы и Сериалы",
+    "url": "https://apkr.upzona.net/zona5.apk",
+    "icon": "https://radio.putevod.su/app/img/zona.png",
+    "version": "3.x.x"
+  },
+  {
+    "name": "Радио Кавказа",
+    "description": "Радио онлайн",
+    "url": "https://radio.putevod.su/app/1.apk",
+    "icon": "https://radio.putevod.su/app/img/rk.png",
+    "version": "1.0.0"
+  },
+  {
+    "name": "Русское Радио",
+    "description": "Радио онлайн",
+    "url": "https://radio.putevod.su/app/ruradio.apk",
+    "icon": "https://radio.putevod.su/app/img/ruradio.png",
+    "version": "1.0.0"
+  },
+  {
+    "name": "FX File Explorer",
+    "description": "Инструменты",
+    "url": "https://radio.putevod.su/app/nextapp.fx.apk",
+    "icon": "https://radio.putevod.su/app/img/ffe.png",
+    "version": "9.1.0"
+  },
+  {
+    "name": "RuStore",
+    "description": "Магазин приложений",
+    "url": "https://static.rustore.ru/rustore-releases/stable/RuStore-mobile-1.98.0.1.apk",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/RuStore_logo.svg/1280px-RuStore_logo.svg.png",
+    "version": "1.0.0"
+  },
+  {
+    "name": "Aptoide",
+    "description": "Магазин приложений",
+    "url": "https://pool.apk.aptoide.com/carolyne-silva/cm-aptoidetv-pt-542-72049303-6212d8ef0991eaf05b32f8f0141dadb8.apk",
+    "icon": "https://radio.putevod.su/app/img/aptoide.png",
+    "version": "1.0.0"
+  },
+  {
+    "name": "YouTube AUTO",
+    "description": "Инструменты для Авто",
+    "url": "https://radio.putevod.su/app/youtubeauto.apk",
+    "icon": "https://radio.putevod.su/app/img/youtubeauto.png",
+    "version": "1.0.0"
+  },
+  {
+    "name": "CarStream",
+    "description": "Инструменты для Авто",
+    "url": "https://radio.putevod.su/app/carstream.apk",
+    "icon": "https://radio.putevod.su/app/img/carstream.png",
+    "version": "2.0.0"
   }
 ]
